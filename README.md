@@ -4,3 +4,5 @@ This Is perl Script
 
 #Contact 
 #Telegram: https://t.me/Error404crackersbay
+
+permission Command: chmod 777 admin_finder.pl.pl
